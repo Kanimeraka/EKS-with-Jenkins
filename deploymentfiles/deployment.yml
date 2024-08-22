@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: kanimeraka/devops:5
+        image: kanimeraka/devops:1
         ports:
         - containerPort: 8080
 
